@@ -13,7 +13,7 @@ Shalise Franklin
 In this assignment, we are finding the exchange rate from United States Dollars (USD) to a list of fifteen global currencies. The user types in the USD amount they want to convert, selects the global currency the want to convert to, and then the user is presented with the exchange rate.
 
 ### View Project:
-https://github.com/sgf16b/lesson5_javascript2
+https://sgf16b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. Break- A break is used in a switch statement to break out of the current loop. In other words, the break is used in the switch statement to immediately exit out of the block of code.
